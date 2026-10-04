@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+
+node_modules/
+dist/
+*.tsbuildinfo
+*.local
+
+.env
+
+graphify-out/
+.vscode/
+.idea/
+.DS_Store
+.claude/
